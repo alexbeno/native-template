@@ -1,0 +1,18 @@
+/**
+* import your scss
+**/
+
+/* [core config] */
+
+@import 'core/_reset';
+@import 'core/_config';
+@import 'core/_mixin';
+
+/* [global config] */
+
+@import 'global/_body';
+@import 'global/_header';
+@import 'global/_footer';
+
+/* [view file] */
+@import 'views/_home';
