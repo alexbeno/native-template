@@ -1,6 +1,6 @@
 # Alexis benoliel guideline
 
+- [doc](doc/doc.md)
 - [Git](doc/git.md)
 - [checklist](doc/check.md)
-- [doc](doc/doc.md)
-- [snippet](doc/snippet/)
+- [snippet](doc/)
