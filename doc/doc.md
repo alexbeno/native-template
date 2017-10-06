@@ -1,7 +1,7 @@
 # Alexis Benoliel documentation
 
-1. [SASS](#SASS)
-2. [Javascript](#Javascript)
+- [SASS](#Views)
+- [Javascript](#new)
 
 ## SASS
 
@@ -143,8 +143,7 @@ Define your transition cubic-bezier variable
 
 
 ## Javascript
-
-### add a file
+### new
 
 * create a folder or just a file (preceded by a underscore for a file)
 * in your file code like this
